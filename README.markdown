@@ -1,16 +1,24 @@
 # README
 
+## The Problem:
+
+See the accompanied [blog post](http://gidogeek.com/post/6037637963/ical-sparrow) for why I made this.
+
 ## How to instal:
 
 1. Download the Mail.applescript file
 2. Make a back-up of : "/Applications/iCal.app/Contents/Resources/Scripts/Mail.scpt"
-3. Open the Mail.applescript file in "AppleScript Editor"
+3. Open the Mail.applescript file in **"AppleScript Editor"**. It's pre-installed on OSX in: **"/Applications/Utilities/"**
 4. Click compile 
 ![screenshot](http://f.cl.ly/items/2R0h2M3Z3h1J1b0R3C2i/Screen%20shot%202011-05-31%20at%2019.36.20%20.png)
-5. Copy the resulting Mail.scpt to "/Applications/iCal.app/Contents/Resources/Scripts/" and replace the file which is there
+5. Rename the file to **Mail.scpt** and copy it to **"/Applications/iCal.app/Contents/Resources/Scripts/"**. Replace the file which is there.
 
 Note: The Original.applescript is the original applescript file that came with Snow Leopard.
 
 ## Credits:
 
-Major love to @dinhviethoa for making Sparrow and ofcourse the Apple Script interface
+Major love to [@dinh_viet_hoa](http://twitter.com/dinh_viet_hoa) for making Sparrow and of course the Apple Script interface
+
+## Help & Issues:
+
+I realize not everybody who lands on this page might have a Github account. Please feel free to ask my questions about this on [Twitter](http://twitter.com/gidogeek). I'll be more then happy to help you out with any issues you might have. This problem has been bugging me for-ever.
