@@ -21,4 +21,4 @@ Major love to [@dinh_viet_hoa](http://twitter.com/dinh_viet_hoa) for making Spar
 
 ## Help & Issues:
 
-I realize not everybody who lands on this page might have a Github account. Please feel free to ask my questions about this on [Twitter](http://twitter.com/gidogeek). I'll be more then happy to help you out with any issues you might have. This problem has been bugging me for-ever.
+I realize not everybody who lands on this page might have a Github account. Please feel free to ask me questions about this on [Twitter](http://twitter.com/gidogeek). I'll be more then happy to help you out with any issues you might have. This problem has been bugging me for-ever.
