@@ -6,7 +6,7 @@
 2. Make a back-up of : "/Applications/iCal.app/Contents/Resources/Scripts/Mail.scpt"
 3. Open the Mail.applescript file in "AppleScript Editor"
 4. Click compile
-5. Copy the resulting Mail.scpt
+5. Copy the resulting Mail.scpt to "/Applications/iCal.app/Contents/Resources/Scripts/" and replace the file which is there
 
 Note: The Original.applescript is the original applescript file that came with Snow Leopard.
 
