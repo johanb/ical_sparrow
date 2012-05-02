@@ -2,9 +2,11 @@
 
 ## The Problem:
 
+whenever you have an e-mail reminder set in one of your calendar entries iCal will launch Apple Mail to send you this reminder. Even-though you might not be using Apple Mail. This is especially annoying if you have never even opened or set-up mail and therefor have no e-mail accounts there. Luckily this behavior is modifiable trough Applescript.
+
 See the accompanied [blog post](http://gidogeek.com/post/6037637963/ical-sparrow) for why I made this.
 
-## How to instal:
+## How to install:
 
 1. Download the Mail.applescript file
 2. Make a back-up of : "/Applications/iCal.app/Contents/Resources/Scripts/Mail.scpt"
